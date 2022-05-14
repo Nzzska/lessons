@@ -1,0 +1,49 @@
+%%manim -qh -v WARNING brick_wall_test
+        
+class brick_wall_test(Scene):
+    def construct(self):
+        wall = self.create_bricks(cols=5, rows=5, x=-2, y=2, bheight=0.5)
+        self.add(wall)
+        self.smash_2d_vgroup(wall, 500, 1000)
+    def create_bricks(self, cols, rows, x, y, bheight):
+        vg = VGroup()
+        for i in range(0,rows):
+            vg.add(
+                self.create_column_of_bricks(cols, x=x+i*bheight, y=y, bheight=bheight)
+            )
+        return vg
+    def create_column_of_bricks(self,number_per_col, x, y, bheight):
+        vg = VGroup()
+        for i in range(0,number_per_col):
+            square = Square(side_length=bheight)
+            square.shift(RIGHT*x + UP*y-i*UP*square.height)
+            vg.add(square)
+        return vg
+    def smash_2d_vgroup(self, vgroup, energy, max_energy):
+        cols = len(vgroup)
+        rows = len(vgroup[0])
+        size = cols*rows
+        energy_per_brick = max_energy/size
+        destroyed_bricks = []
+        vdestroyed_bricks = VGroup()
+        print(energy//energy_per_brick)
+        for i in range(0, int(energy//energy_per_brick)):
+            pick = random.choice(vgroup)
+            pick = random.choice(pick)
+            if pick not in destroyed_bricks:
+                destroyed_bricks.append(pick)
+            else:
+                pass
+        print(destroyed_bricks)
+        for i in destroyed_bricks:
+            vdestroyed_bricks.add(i)
+        vdestroyed_bricks.set_color(GREEN)
+        self.kaboom(vdestroyed_bricks)
+        
+    def kaboom(self, vgroup):
+        self.play(Rotate(
+                vgroup,
+                angle=2*PI,
+                about_point=ORIGIN,
+                rate_func=linear,
+            ))

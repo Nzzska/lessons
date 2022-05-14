@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/funkcijos/media/videos/testas/720p30/partial_movie_files/Demo/1342159004_583094896_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/funkcijos/media/videos/testas/720p30/partial_movie_files/Demo/1353618911_4238668304_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/funkcijos/media/videos/testas/720p30/partial_movie_files/Demo/1353618911_3088092308_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/funkcijos/media/videos/testas/720p30/partial_movie_files/Demo/1353618911_4238668304_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/funkcijos/media/videos/testas/720p30/partial_movie_files/Demo/1353618911_1012562308_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/funkcijos/media/videos/testas/720p30/partial_movie_files/Demo/1353618911_641011677_743840792.mp4'

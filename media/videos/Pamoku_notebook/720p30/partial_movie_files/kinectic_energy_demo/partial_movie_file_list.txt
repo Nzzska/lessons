@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/kinectic_energy_demo/1342159004_2043070398_1420365843.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/kinectic_energy_demo/1353618911_1467498486_2694479119.mp4'

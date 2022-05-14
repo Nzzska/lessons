@@ -1,0 +1,37 @@
+{
+    "red":{
+        "wavelength(nm)":650,
+        "energy(eV)":1.91,
+        "color":"#FF0000"
+    },
+    "orange":{
+        "wavelength(nm)":600,
+        "energy(eV)":2.06,
+        "color":"#FFBF00"
+    },
+    "yellow":{
+        "wavelength(nm)":580,
+        "energy(eV)":2.14,
+        "color":"#FFFF00"
+    },
+    "green":{
+        "wavelength(nm)":550,
+        "energy(eV)":2.25,
+        "color":"#7CFC00"
+    },
+    "cyan":{
+        "wavelength(nm)":500,
+        "energy(eV)":2.48,
+        "color":"#E0FFFF"
+    },
+    "blue":{
+        "wavelength(nm)":450,
+        "energy(eV)":2.75,
+        "color":"#00FFFF"
+    },
+    "violet":{
+        "wavelength(nm)":400,
+        "energy(eV)":3.1,
+        "color":"#7F00FF"
+    }
+}

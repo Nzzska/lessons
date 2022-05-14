@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1342159004_4232167602_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_2091041929_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_1317346428_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_2542006416_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_1259028350_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_1259028350_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_1259028350_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_1259028350_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_948366929_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_1884985724_3704423304.mp4'
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/720p30/partial_movie_files/Demo/1353618911_3503346753_394663088.mp4'

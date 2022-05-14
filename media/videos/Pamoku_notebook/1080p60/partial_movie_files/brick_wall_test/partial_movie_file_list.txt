@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/media/videos/Pamoku_notebook/1080p60/partial_movie_files/brick_wall_test/450974505_1129531588_801125798.mp4'

@@ -1,0 +1,17 @@
+{
+    "Na":{
+        "work_function":2.36,
+        "lithuanian_name":"natris",
+        "color":"#89CFF0"
+    },
+    "Nd":{
+        "work_function":3.2,
+        "lithuanian_name":"neodimis",
+        "color":"#89CFF0"
+    },
+    "Ca":{
+        "work_function":2.87,
+        "lithuanian_name":"kalcis",
+        "color":"#89CFF0"
+    }
+}

@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/obalk/OneDrive/Desktop/Dalykai/Pamoku_notebook/funkcijos/media/videos/testas/480p15/partial_movie_files/collision_demo/3163782288_3002084265_4237445367.mp4'
